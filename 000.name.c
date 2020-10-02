@@ -3,7 +3,7 @@
 int main ()
 
 {
-    printf ("my name is tousif ahmed jesan");
+    printf ("My name is Tousif Ahmed Jesan");
 
     return 0;
 }
